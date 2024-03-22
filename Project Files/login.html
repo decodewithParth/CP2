@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title>SignUp</title>
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="sign-up-page">
+      <img
+        class="ellipse-node-icon"
+        loading="eager"
+        alt=""
+        src="./public/ellipse-3@2x.png"
+      />
+
+      <main class="background-frame">
+        <section class="professional-frame-parent">
+          <div class="professional-frame">
+            <div class="frame-parent">
+              <div class="frame-group">
+                <div class="frame-wrapper">
+                  <div class="tasty-table-where-every-bite-parent">
+                    <h2 class="tasty-table">
+                      Tasty Table : Where Every Bite Tells a Story
+                    </h2>
+                    <div class="experience-culinary-delight">
+                      Experience culinary delight with Tasty Table. Explore
+                      global flavors, connect with fellow foodies, and unlock
+                      endless recipe possibilities!
+                    </div>
+                  </div>
+                </div>
+                <div class="discover-a-world-container">
+                  <ul class="discover-a-world-of-flavors-wi">
+                    <li class="discover-a-world">
+                      Discover a world of flavors with Tasty Table's global
+                      recipe collection.
+                    </li>
+                    <li class="connect-with-fellow">
+                      Connect with fellow foodies and share your culinary
+                      adventures.
+                    </li>
+                    <li>
+                      Personalize your cooking experience with tailored recipe
+                      recommendations
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="copyright-frame">
+                <div class="tasty-table-com">© 2024 Tasty Table, Com.</div>
+              </div>
+            </div>
+          </div>
+          <div class="input-field-frames">
+            <form class="sign-up-form">
+              <div class="sign-up-form-child"></div>
+              <div class="sign-in-button">
+                <div class="sign-up">Sign Up</div>
+              </div>
+              <div class="google-frame">
+                <div class="google-logo">
+                  <div class="get-better-taste">
+                    Get better taste with tasty table
+                  </div>
+                  <button class="sign-up-with-google-button">
+                    <div class="sign-up-with-google-button-child"></div>
+                    <img
+                      class="google-logo-icon"
+                      alt=""
+                      src="./public/google-logo.svg"
+                    />
+
+                    <div class="sign-up-with">Sign up with Google</div>
+                  </button>
+                </div>
+              </div>
+              <div class="last-name-input">
+                <div class="first-name">
+                  <div class="first-name-child"></div>
+                  <input
+                    class="first-name1"
+                    placeholder="First Name"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div class="last-name-input1">
+                <div class="first-name2">
+                  <div class="first-name-item"></div>
+                  <input
+                    class="last-name"
+                    placeholder="Last Name"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div class="last-name-input2">
+                <div class="first-name3">
+                  <div class="first-name-inner"></div>
+                  <input
+                    class="profession"
+                    placeholder="Profession"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div class="last-name-input3">
+                <div class="first-name4">
+                  <div class="rectangle-div"></div>
+                  <input class="email" placeholder="Email" type="text" />
+                </div>
+              </div>
+              <div class="last-name-input4">
+                <div class="first-name5">
+                  <div class="first-name-child1"></div>
+                  <input class="password" placeholder="Password" type="password" />
+
+                  <img
+                    class="password-eye-icon"
+                    alt=""
+                    src="./public/password-eye.svg"
+                  />
+                </div>
+              </div>
+              <div class="contact-frame">
+                <input class="vector-line" type="checkbox" />
+
+                <div class="i-agree-to-container">
+                  <span class="i-agree-to">I agree to </span>
+                  <span class="terms-of-service">Terms of Service</span>
+                  <span class="and"> and </span>
+                  <span class="privacy-policy">Privacy Policy.</span>
+                </div>
+              </div>
+              <div class="last-name-input5">
+                <button class="sign-in-button1">
+                  <div class="sign-in-button-child"></div>
+                  <div class="sign-in">Sign in</div>
+                </button>
+              </div>
+            </form>
+            <div class="footer-frame">
+              <div class="privacy-policy-link">
+                <div class="contact">Contact</div>
+              </div>
+              <h1 class="privacy-policy-link1">.</h1>
+              <div class="privacy-policy-link2">
+                <div class="privacy-policy1">Privacy Policy</div>
+              </div>
+              <h1 class="privacy-policy-link3">.</h1>
+              <div class="privacy-policy-link4">
+                <div class="terms-conditions">Terms & Conditions</div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script>
+   
+  // Get the password input field and the password-eye-icon
+  const passwordInput = document.querySelector('.password');
+  const passwordEyeIcon = document.querySelector('.password-eye-icon');
+
+  // Add click event listener to the password-eye-icon
+  passwordEyeIcon.addEventListener('click', function() {
+    // Toggle the type attribute of the password input field between "password" and "text"
+    if (passwordInput.type === 'password') {
+      passwordInput.type = 'text';
+    } else {
+      passwordInput.type = 'password';
+    }
+  });
+    </script>
+  </body>
+</html>
