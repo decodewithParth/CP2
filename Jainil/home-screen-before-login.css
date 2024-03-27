@@ -1,0 +1,1319 @@
+.final-footer-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1440px;
+  height: 499px;
+}
+.contact-us1 {
+  position: absolute;
+  top: 10px;
+  left: 1078px;
+  font-size: var(--font-size-18xl);
+  font-family: var(--font-inria-sans);
+  color: var(--color-tomato-200);
+}
+.social-media1,
+.tasty-table1 {
+  left: 24px;
+  color: var(--color-tomato-200);
+}
+.tasty-table1 {
+  position: absolute;
+  top: 0;
+  font-size: var(--font-size-28xl);
+  font-family: var(--font-inria-sans);
+}
+.social-media1 {
+  top: 244px;
+  font-size: var(--font-size-18xl);
+}
+.about-us2,
+.social-media1,
+.the-best-recipes1 {
+  position: absolute;
+  font-family: var(--font-inria-sans);
+}
+.about-us2 {
+  top: 10px;
+  left: 685px;
+  font-size: var(--font-size-18xl);
+  color: var(--color-tomato-200);
+}
+.the-best-recipes1 {
+  top: 74px;
+  left: 24px;
+  font-size: var(--font-size-3xl);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 478px;
+}
+.footer-child {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-ivory);
+  position: absolute;
+  top: 144px;
+  left: 24px;
+  border-radius: var(--br-5xs);
+  width: 337px;
+  height: 58px;
+}
+.enter-your-email1 {
+  position: absolute;
+  top: 158px;
+  left: 41px;
+  color: var(--color-tomato-200);
+}
+.footer-item {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-tomato-200);
+  position: absolute;
+  top: 144px;
+  left: 369px;
+  border-radius: var(--br-6xs);
+  width: 127px;
+  height: 58px;
+}
+.sign-up2,
+.vector-icon14 {
+  position: absolute;
+  top: 158px;
+  left: 390px;
+}
+.vector-icon14 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instagram {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 8.83%;
+  width: 2.78%;
+  top: 68.21%;
+  right: 95.56%;
+  bottom: 22.96%;
+  left: 1.67%;
+}
+.vector-icon15 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.twitter {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 7.9%;
+  width: 2.78%;
+  top: 68.87%;
+  right: 90.9%;
+  bottom: 23.22%;
+  left: 6.32%;
+}
+.vector-icon16,
+.vector-icon17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon17 {
+  height: 50%;
+  width: 33.41%;
+  top: 25.15%;
+  right: 27.73%;
+  bottom: 24.85%;
+  left: 38.86%;
+}
+.youtube {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 7.55%;
+  width: 3.06%;
+  top: 68.87%;
+  right: 85.97%;
+  bottom: 23.58%;
+  left: 10.97%;
+}
+.group-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 11.26%;
+  width: 3.54%;
+  top: 66.89%;
+  right: 80.63%;
+  bottom: 21.85%;
+  left: 15.83%;
+}
+.contact1,
+.faq1,
+.our-kitchen1,
+.our-popular1,
+.our-recipes1,
+.support1 {
+  position: absolute;
+  top: 77px;
+  left: 685px;
+  display: flex;
+  align-items: center;
+  width: 127px;
+}
+.contact1,
+.faq1,
+.our-kitchen1,
+.our-popular1,
+.support1 {
+  top: 121px;
+}
+.contact1,
+.faq1,
+.our-kitchen1,
+.support1 {
+  top: 165px;
+}
+.contact1,
+.faq1,
+.support1 {
+  top: 80px;
+  left: 1078px;
+}
+.contact1,
+.support1 {
+  top: 126px;
+}
+.support1 {
+  top: 166px;
+}
+.footer-inner {
+  position: absolute;
+  top: 388px;
+  left: 0;
+  border-top: 1px solid var(--color-tomato-200);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.mail-icon1 {
+  position: absolute;
+  height: 7.24%;
+  width: 2.85%;
+  top: 69.32%;
+  right: 76.04%;
+  bottom: 23.44%;
+  left: 21.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.tasty-table-all1 {
+  position: absolute;
+  top: 423px;
+  left: 321px;
+  color: var(--color-tomato-200);
+}
+.final-footer1,
+.footer,
+.main-search-item {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 1440px;
+  height: 453px;
+}
+.final-footer1,
+.main-search-item {
+  top: 1997px;
+  height: 499px;
+}
+.main-search-item {
+  top: 0;
+  border-radius: var(--br-xl);
+  width: 1280px;
+  height: 400px;
+  object-fit: cover;
+}
+.main-searchbar-main1 {
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-11xl);
+  padding: 18px 94.20000000000005px var(--padding-mid);
+  color: var(--color-darkslategray);
+  border: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+  position: relative;
+  z-index: 3;
+  margin-left: 76.8px;
+}
+.vector-icon18 {
+  position: absolute;
+  height: 49.3%;
+  width: 3.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+  left: 20.5px;
+  bottom: 17px;
+}
+.wrapper-main-searchbar-main-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-tomato-200);
+  position: absolute;
+  border-radius: var(--br-22xl);
+  width: 22%;
+  height: 55px;
+  z-index: 1;
+  right: 10.100000000000023px;
+  top: 8px;
+  pointer-events: none;
+}
+.wrapper-main-searchbar-main {
+  position: absolute;
+  border: 0;
+  background-color: #f5f5f5;
+  top: 203px;
+  left: 188.4px;
+  border-radius: var(--br-24xl);
+  width: 902.1px;
+  height: 71px;
+  box-sizing: border-box;
+}
+.find-recipes-youll1 {
+  position: absolute;
+  top: 95px;
+  left: 257px;
+  display: inline-block;
+  width: 764.9px;
+}
+.main-search1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 400px;
+  font-size: var(--font-size-45xl);
+}
+.country1,
+.meals1,
+.popular-recipes1 {
+  position: absolute;
+  top: 470px;
+  left: 0;
+  font-size: var(--font-size-28xl);
+  letter-spacing: 0.01em;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.country1,
+.meals1 {
+  top: 1013px;
+  left: 1px;
+}
+.country1 {
+  top: 1554px;
+}
+.sahi-paneer-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+}
+.indian5,
+.sahi-paneer13 {
+  position: absolute;
+  top: 326px;
+  left: 87px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.indian5 {
+  top: 359px;
+  left: 202px;
+  font-size: var(--font-size-8xl);
+}
+.vector-icon19 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+}
+.indian6,
+.sahi-paneer14 {
+  position: absolute;
+  top: 326px;
+  left: 87px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.indian6 {
+  top: 359px;
+  left: 202px;
+  font-size: var(--font-size-8xl);
+}
+.vector-icon20 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer-child6,
+.sahi-paneer12 {
+  position: absolute;
+  left: 0;
+  width: 300px;
+  height: 400px;
+}
+.sahi-paneer12 {
+  text-decoration: none;
+  top: 554px;
+  color: inherit;
+}
+.sahi-paneer-child6 {
+  top: 0;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+}
+.indian7,
+.sahi-paneer16 {
+  position: absolute;
+  top: 326px;
+  left: 87px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.indian7 {
+  top: 359px;
+  left: 202px;
+  font-size: var(--font-size-8xl);
+}
+.vector-icon21 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+}
+.american1,
+.pepperoni-pizza2 {
+  position: absolute;
+  top: 326px;
+  left: 16px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.american1 {
+  top: 359px;
+  left: 159px;
+  font-size: var(--font-size-8xl);
+}
+.vector-icon22 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer15 {
+  top: 0;
+  left: 0;
+}
+.pepperoni-pizza1,
+.sahi-paneer-child8,
+.sahi-paneer15 {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+}
+.pepperoni-pizza1 {
+  text-decoration: none;
+  top: 554px;
+  left: 980px;
+  color: inherit;
+}
+.sahi-paneer-child8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+}
+.indian8,
+.sahi-paneer18 {
+  position: absolute;
+  top: 326px;
+  left: 87px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.indian8 {
+  top: 359px;
+  left: 202px;
+  font-size: var(--font-size-8xl);
+}
+.vector-icon23 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+}
+.mexican1,
+.spaghetti2 {
+  position: absolute;
+  top: 326px;
+  left: 123px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.mexican1 {
+  top: 362px;
+  left: 174px;
+  font-size: var(--font-size-8xl);
+}
+.vector-icon24 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer17 {
+  top: 0;
+  left: 0;
+}
+.sahi-paneer-child10,
+.sahi-paneer17,
+.spaghetti1 {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+}
+.spaghetti1 {
+  text-decoration: none;
+  top: 554px;
+  left: 328px;
+  color: inherit;
+}
+.sahi-paneer-child10 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+}
+.indian9,
+.sahi-paneer20 {
+  position: absolute;
+  top: 326px;
+  left: 87px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.indian9 {
+  top: 359px;
+  left: 202px;
+  font-size: var(--font-size-8xl);
+}
+.vector-icon25 {
+  position: absolute;
+  height: 8.57%;
+  width: 12.99%;
+  top: 3.5%;
+  right: 7.14%;
+  bottom: 87.93%;
+  left: 79.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+}
+.pakistani1,
+.tandoori-chicken2 {
+  position: absolute;
+  font-weight: 600;
+}
+.tandoori-chicken2 {
+  top: 326px;
+  left: 15px;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  width: 293px;
+}
+.pakistani1 {
+  top: 359px;
+  left: 167px;
+  font-size: var(--font-size-8xl);
+  letter-spacing: 0.01em;
+}
+.vector-icon26 {
+  position: absolute;
+  height: 8.57%;
+  width: 12.99%;
+  top: 3.5%;
+  right: 7.14%;
+  bottom: 87.93%;
+  left: 79.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer19,
+.tandoori-chicken1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 308px;
+  height: 400px;
+}
+.tandoori-chicken1 {
+  text-decoration: none;
+  top: 554px;
+  left: 653px;
+  color: inherit;
+}
+.sahi-paneer-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+}
+.vector-icon27 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.breakfast2 {
+  position: absolute;
+  top: 342px;
+  left: 125px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.vector-icon28 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sahi-paneer21 {
+  top: 0;
+}
+.breakfast1,
+.sahi-paneer-child13,
+.sahi-paneer21 {
+  position: absolute;
+  left: 0;
+  width: 300px;
+  height: 400px;
+}
+.breakfast1 {
+  text-decoration: none;
+  top: 1095px;
+  color: inherit;
+}
+.sahi-paneer-child13 {
+  top: 0;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+}
+.vector-icon29 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.lunch2 {
+  position: absolute;
+  top: 342px;
+  left: 183px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.vector-icon30 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.breakfast3,
+.sahi-paneer22 {
+  top: 0;
+  left: 0;
+}
+.breakfast3,
+.lunch1,
+.sahi-paneer-child14,
+.sahi-paneer22 {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+}
+.lunch1 {
+  text-decoration: none;
+  top: 1095px;
+  left: 653px;
+  color: inherit;
+}
+.sahi-paneer-child14 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+}
+.vector-icon31 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.appetizers2 {
+  position: absolute;
+  top: 342px;
+  left: 103px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.vector-icon32 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.breakfast4,
+.lunch3,
+.sahi-paneer23 {
+  top: 0;
+  left: 0;
+}
+.appetizers1,
+.breakfast4,
+.lunch3,
+.sahi-paneer-child15,
+.sahi-paneer23 {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+}
+.appetizers1 {
+  text-decoration: none;
+  top: 1095px;
+  left: 980px;
+  color: inherit;
+}
+.sahi-paneer-child15 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+}
+.vector-icon33 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.brunch1 {
+  position: absolute;
+  top: 342px;
+  left: 164px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.vector-icon34 {
+  position: absolute;
+  height: 8.57%;
+  width: 13.33%;
+  top: 3.5%;
+  right: 4.67%;
+  bottom: 87.93%;
+  left: 82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.breakfast5,
+.sahi-paneer24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 400px;
+}
+.breakfast5 {
+  text-decoration: none;
+  top: 1095px;
+  left: 328px;
+  color: inherit;
+}
+.vector-icon35,
+.vector-icon36 {
+  height: 33.33%;
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+}
+.vector-icon35 {
+  position: absolute;
+  top: 0;
+  bottom: 66.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon36 {
+  top: 33.33%;
+  bottom: 33.33%;
+}
+.group-icon1,
+.vector-icon36,
+.vector-icon37 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon37 {
+  height: 33.33%;
+  width: 100%;
+  top: 66.67%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+}
+.group-icon1 {
+  height: 51.24%;
+  width: 38.43%;
+  top: 21.73%;
+  right: 29.1%;
+  bottom: 27.02%;
+  left: 32.47%;
+}
+.india {
+  text-decoration: none;
+  position: absolute;
+  height: 12.09%;
+  width: 23.44%;
+  top: 87.91%;
+  right: 76.56%;
+  bottom: 0;
+  left: 0;
+}
+.vector-icon38,
+.vector-icon39 {
+  position: absolute;
+  height: 100%;
+  width: 50.02%;
+  top: 0;
+  right: 25.01%;
+  bottom: 0;
+  left: 24.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon39 {
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.canada {
+  text-decoration: none;
+  position: absolute;
+  height: 12.08%;
+  width: 23.43%;
+  top: 87.91%;
+  right: 50.95%;
+  bottom: 0.01%;
+  left: 25.63%;
+}
+.vector-icon40,
+.vector-icon41 {
+  height: 100%;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon40 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+.vector-icon41 {
+  width: 33.33%;
+  right: 66.67%;
+}
+.france,
+.vector-icon41,
+.vector-icon42 {
+  position: absolute;
+  bottom: 0;
+}
+.vector-icon42 {
+  height: 100%;
+  width: 33.33%;
+  top: 0;
+  right: 0;
+  left: 66.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.france {
+  text-decoration: none;
+  height: 12.09%;
+  width: 23.44%;
+  top: 87.91%;
+  right: 25.55%;
+  left: 51.02%;
+}
+.group-icon2,
+.italy {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.group-icon2 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.italy {
+  text-decoration: none;
+  height: 12.09%;
+  width: 23.44%;
+  top: 87.91%;
+  left: 76.56%;
+}
+.body-of-home-screen {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1280px;
+  height: 1861px;
+  font-size: var(--font-size-15xl);
+  font-family: var(--font-inter);
+}
+.after-navbar,
+.content-of-home-page,
+.logo-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 2496px;
+}
+.content-of-home-page,
+.logo-item {
+  top: 138px;
+}
+.logo-item {
+  top: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 70px;
+  height: 70px;
+}
+.rectangle-icon1 {
+  border-radius: var(--br-30xl);
+  object-fit: cover;
+}
+.logo1,
+.rectangle-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 70px;
+}
+.about-us3,
+.recipes2 {
+  position: absolute;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inter);
+  color: var(--color-tomato-200);
+  text-align: left;
+}
+.about-us3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 26px;
+  left: 701px;
+  display: inline-block;
+}
+.recipes2 {
+  top: 0;
+  left: 0;
+}
+.vector-icon43 {
+  position: absolute;
+  height: 34.29%;
+  width: 11.71%;
+  top: 39.29%;
+  right: 0;
+  bottom: 26.43%;
+  left: 88.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.recipes1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 26px;
+  left: 110px;
+  width: 104.2px;
+  height: 28px;
+}
+.seasonal2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inter);
+  color: var(--color-tomato-200);
+  text-align: left;
+}
+.vector-icon44 {
+  position: absolute;
+  height: 34.29%;
+  width: 10.68%;
+  top: 39.29%;
+  right: 0;
+  bottom: 26.43%;
+  left: 89.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.seasonal1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 26px;
+  left: 240px;
+  width: 114.2px;
+  height: 28px;
+}
+.easy-kitchen2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inter);
+  color: var(--color-tomato-200);
+  text-align: left;
+}
+.vector-icon45 {
+  position: absolute;
+  height: 34.29%;
+  width: 7.71%;
+  top: 39.29%;
+  right: 0;
+  bottom: 26.43%;
+  left: 92.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.easy-kitchen1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 26px;
+  left: 385px;
+  width: 158.2px;
+  height: 28px;
+}
+.explore2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inter);
+  color: var(--color-tomato-200);
+  text-align: left;
+}
+.vector-icon46 {
+  position: absolute;
+  height: 34.29%;
+  width: 12.55%;
+  top: 39.29%;
+  right: 0;
+  bottom: 26.43%;
+  left: 87.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.explore1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 26px;
+  left: 576px;
+  width: 97.2px;
+  height: 28px;
+}
+.navbar-child {
+  position: absolute;
+  height: 42.86%;
+  width: 2.18%;
+  top: 32.86%;
+  right: 12.19%;
+  bottom: 24.29%;
+  left: 85.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.login1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 24px;
+  left: 1156px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-tomato-200);
+  text-align: left;
+  display: inline-block;
+}
+.sign-up-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-bisque);
+  border: 2px solid var(--color-tomato-200);
+  box-sizing: border-box;
+  width: 126px;
+  height: 58px;
+}
+.sign-up3 {
+  position: absolute;
+  top: 14px;
+  left: 16px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-tomato-200);
+  text-align: left;
+}
+.sign-up-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 10px;
+  left: 1252px;
+  width: 126px;
+  height: 58px;
+}
+.navbar {
+  margin: 0;
+  position: absolute;
+  top: 15px;
+  left: 19px;
+  width: 1378px;
+  height: 70px;
+}
+.home-screen-before-login1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-ivory);
+  height: 2700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-ivory);
+  font-family: var(--font-inika);
+}
