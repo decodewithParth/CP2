@@ -6,32 +6,11 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-left">
         <div className="logo">Logo</div>
-        <ul className="navbar-menu">
-          <li className="navbar-item">Recipes
-            <ul className="dropdown-menu">
-              <li className="dropdown-item">Recipe 1</li>
-              <li className="dropdown-item">Recipe 2</li>
-              <li className="dropdown-item">Recipe 3</li>
-            </ul>
-          </li>
-          <li className="navbar-item">Seasonal
-            <ul className="dropdown-menu">
-              <li className="dropdown-item">Spring</li>
-              <li className="dropdown-item">Summer</li>
-              <li className="dropdown-item">Autumn</li>
-              <li className="dropdown-item">Winter</li>
-            </ul>
-          </li>
-          <li className="navbar-item">Easy Kitchen</li>
-          <li className="navbar-item">Explore
-            <ul className="dropdown-menu">
-              <li className="dropdown-item">Explore 1</li>
-              <li className="dropdown-item">Explore 2</li>
-              <li className="dropdown-item">Explore 3</li>
-            </ul>
-          </li>
-          <li className="navbar-item">About Us</li>
-        </ul>
+        <div className="navbar-item">Recipes</div>
+        <div className="navbar-item">Seasonal</div>
+        <div className="navbar-item">Easy Kitchen</div>
+        <div className="navbar-item">Explore</div>
+        <div className="navbar-item">About Us</div>
       </div>
       <div className="navbar-right">
         <button className="login-button">Login</button>
