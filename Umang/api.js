@@ -1,7 +1,5 @@
 
-
 "use strict";
-
 
 window.ACCESS_POINT = "https://api.edamam.com/api/recipes/v2";
 const /** {String} */ APP_ID = "4cc01b98";
