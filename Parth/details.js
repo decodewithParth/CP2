@@ -8,7 +8,7 @@ const $detailContainer = document.querySelector("[data-detail-container]");
 ACCESS_POINT += `/${window.location.search.slice(window.location.search.indexOf("=") + 1)}`;
 
 fetchData(null, data => {
-    console.log(data);
+    // console.log(data);
 
     const {
         images: { LARGE, REGULAR, SMALL, THUMBNAIL },
@@ -101,10 +101,11 @@ fetchData(null, data => {
         ${tagElements ? `<div class="tag-list">${tagElements}</div>` : ""}
             <h2 class="title-medium ingr-title">
             Ingredients
-            <span class="label-medium">for 6 servings</span>
+            <span class="label-medium">for 6 ${servings}</span>
             </h2>
 
-            <ul class="body-large ingr-list"></ul>
+            ${ingredientItems ? `<ul class="body-large ingr-list">
+            ${ingredientItems}</ul>` : ""}
         </div>
         `
 });
