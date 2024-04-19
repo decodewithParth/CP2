@@ -25,7 +25,7 @@ fetchData(null, data => {
         uri
     } = data.recipe;
 
-    document.title = `${title} - Tasty Table`;
+    document.title = `${title} - cookio.co`;
     const banner = LARGE ?? REGULAR ?? SMALL ?? THUMBNAIL;
     const { url: bannerUrl, width, height } = banner;
     const tags = [...cuisineType, ...dietLabels, ...dishType];
