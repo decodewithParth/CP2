@@ -1,3 +1,8 @@
+/*-----------------------------------*\
+  #style.css
+\*-----------------------------------*/
+
+
 
 
 /*-----------------------------------*\
@@ -828,6 +833,7 @@ main {
   z-index: 4;
 }
 
+
 .tasty_title {
   font-family: var(--font-secondary);
   font-size: 22px;
@@ -1100,9 +1106,7 @@ main {
   opacity: 0.8;
 }
 
-.footer .edamam img {
-  width: 180px;
-}
+
 
 
 
