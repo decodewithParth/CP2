@@ -60,3 +60,9 @@ if (savedRecipes.length) {
         $gridList.appendChild($card);
     })
 }
+
+else{
+    $savedRecipeContainer.innerHTML+=`<p class="body-large>You don't saved any recipes yet!</p>`;
+}
+
+$savedRecipeContainer.appendChild($gridList);
